@@ -1,6 +1,7 @@
 # qoder-changelog-test
 
 ## 这是链接
+`Visit our website now to experience [Qoder CLI](https://qoder.com/cli)!`
 Visit our website now to experience [Qoder CLI](https://qoder.com/cli)!
 
 ### 如果使用 a 标签，需要写全， 带上http / https才行
